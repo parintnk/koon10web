@@ -40,7 +40,7 @@ export default function Hero() {
             <span className="gradient-text">Startup Products</span>
           </h1>
 
-          <p className="text-white/65 text-lg sm:text-xl leading-relaxed max-w-2xl mx-auto mb-10">
+          <p className="text-white/65 text-sm sm:text-xl leading-relaxed max-w-2xl mx-auto mb-10">
             From landing pages to full-scale web applications and startup MVPs —
             we turn your idea into a real, working digital product.
             No agency fluff. Just clean code and great products.
