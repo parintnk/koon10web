@@ -10,7 +10,7 @@ const testimonials = [
     avatar: `${BASE}/1493a030b332a1ad096b3aba4b98416bf7ab26a9.jpg`,
     rating: 5,
     review:
-      "YES Web Design transformed our online presence. Our e-commerce site now generates 280% more sales than our old one. The team understood our brand deeply and delivered beyond expectations.",
+      "Koon10 Web Design transformed our online presence. Our e-commerce site now generates 280% more sales than our old one. The team understood our brand deeply and delivered beyond expectations.",
   },
   {
     name: "Wanna Sirichoke",
@@ -28,7 +28,7 @@ const testimonials = [
     avatar: `${BASE}/794ff0f433eb0f4bbc4a4315d787392729addd49.jpg`,
     rating: 5,
     review:
-      "As a first-time online seller, I was nervous. The YES team guided me through everything and trained me to manage my shop independently. Customers constantly compliment how beautiful it looks!",
+      "As a first-time online seller, I was nervous. The Koon10 team guided me through everything and trained me to manage my shop independently. Customers constantly compliment how beautiful it looks!",
   },
   {
     name: "Thanaphol Raksadee",
@@ -37,7 +37,7 @@ const testimonials = [
     avatar: `${BASE}/fcb3ac8a3c4305df81e9c3a3823a6ba198ecb204.webp`,
     rating: 5,
     review:
-      "We needed a complex platform with telemedicine features. YES delivered a technically flawless product with beautiful UX. Our app has 40,000+ active users and counting. Best investment we've made.",
+      "We needed a complex platform with telemedicine features. Koon10 delivered a technically flawless product with beautiful UX. Our app has 40,000+ active users and counting. Best investment we've made.",
   },
 ];
 

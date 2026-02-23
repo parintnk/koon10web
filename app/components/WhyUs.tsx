@@ -74,7 +74,7 @@ export default function WhyUs() {
               We build what you need, ship it fast, and make sure it works.
             </p>
 
-            <div className="rounded-2xl overflow-hidden border border-white/8 shadow-2xl shadow-black/40">
+            <div className="rounded-2xl overflow-hidden">
               <Image
                 src="https://yeswebdesignstudio.com/wp-content/uploads/2025/03/390_314-1536x1237.png"
                 alt="Koon10 — Our work"
